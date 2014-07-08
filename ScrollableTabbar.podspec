@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage           = "https://github.com/valitovaza/scrollableTabbar"
   s.license            = { :type => 'MIT', :file => 'LICENSE' }
   s.author             = { "Valitovaza" => "valitovaza@gmail.com" }
-  s.source             = { :git => "https://github.com/valitovaza/scrollableTabbar.git", :tag => '1.0' }
+  s.source             = { :git => "https://github.com/yoroyorokun/scrollableTabbar.git", :tag => '1.0' }
   s.requires_arc       = true
   s.source_files       = 'Control/ScrollableTabBar'
   s.platform           = :ios, "6.0"  
